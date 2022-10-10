@@ -1,5 +1,3 @@
-# 🚀 about
-
 <h3> Hi, I am Trilochan </h3>
 
   wannabe programmer
@@ -17,7 +15,7 @@
 
 - ⚙️ om：![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)
 
-- 💻 db：![Postgres](https://img.shields.io/badge/-Postgres-blue?style=flat-circle&logo=Postgres)![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-circle&logo=Oracle)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)!
+- 💻 db：![Postgres](https://img.shields.io/badge/-Postgres-blue?style=flat-circle&logo=Postgres)![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-circle&logo=Oracle)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)
 - 🌱 learning：![Micronaut](https://img.shields.io/badge/-Micronaut-yellow?style=flat-circle&logo=Micronaut)
 
 > Language usage
@@ -25,18 +23,6 @@
 <div align="center">
     <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=holic-x&theme=gruvbox_light&layout=compact"/>
 </div>
-
-
-> Code analysis
-
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
-
-# 💻Recent Blog
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 
 
 # 🔭Actions
@@ -51,9 +37,6 @@
 <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=trylow10&theme=github"/>
 </div>
-
-
-# 🌱Social
 
 
 
