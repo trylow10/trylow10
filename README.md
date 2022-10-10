@@ -1,27 +1,59 @@
-<h3>Hi , I am Trilochan 👋</h3><br><br>
+# 🚀 about
 
-<div class="grid-container" style="display:grid">
-<h4 align="left">Wannabe Programmer</h4>
+<h3> Hi, I am Trilochan </h3>
 
-<h2>Learned language</h2>
-<img height="50" width="50"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png">
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
-<img height="50" width="50" src="https://imgs.search.brave.com/_y_MRrNT3LE_LbZQph7_QrAYqwyhC7QUw2eXpKN4l_k/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC56/bl9OWW90XzRDRjQw/VE14RmwtTHlBSGFI/YSZwaWQ9QXBp">
+  wannabe programmer
+
+
+# 🛠 Tech Stack
+
+> skills
+
+- 🔭 back-end： ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)![Micronaut](https://img.shields.io/badge/-Micronaut-green?style=flat-circle&logo=Micronaut)![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)
+
+- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)!
+
+- :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![Intelli JIDEA](https://img.shields.io/badge/-IntelliJIDEA-black?style=flat-circle&logo=IntelliJIDEA) 
+
+- ⚙️ om：![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)
+
+- 💻 db：![Postgres](https://img.shields.io/badge/-Postgres-blue?style=flat-circle&logo=Postgres)![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-circle&logo=Oracle)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)!
+- 🌱 learning：![Micronaut](https://img.shields.io/badge/-Micronaut-yellow?style=flat-circle&logo=Micronaut)
+
+> Language usage
+
+<div align="center">
+    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=holic-x&theme=gruvbox_light&layout=compact"/>
 </div>
 
-<br>
+
+> Code analysis
+
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
+
+# 💻Recent Blog
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trylow10&layout=compact&theme=dark" />
-</a>
-<a href="https://github.com/trylow10">
- <br/><br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trylow10&theme=dark" alt="trylow10" /></p>
-<br/><br/>
+# 🔭Actions
+
+<div align="center">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=trylow10"/>
+</div>
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
+
+<div align="center">
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=trylow10&theme=github"/>
+</div>
+
+
+# 🌱Social
+
+
+
