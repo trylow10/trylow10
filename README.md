@@ -1,6 +1,6 @@
 <h3> Hi, I am Trilochan </h3>
 
-  wannabe programmer
+  programmer
 
 
 # 🛠 Tech Stack
