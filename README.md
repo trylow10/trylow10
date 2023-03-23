@@ -32,9 +32,4 @@
  
 </div>
 
-<div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=trylow10&theme=dark"/>
-</div>
-
-
 
