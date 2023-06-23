@@ -1,35 +1,27 @@
-<h3> Hi, I am Trilochan </h3>
-
-  programmer
-
-
 # 🛠 Tech Stack
 
-> skills
+> Skills
 
-- 🔭 back-end： ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)![Micronaut](https://img.shields.io/badge/-Micronaut-green?style=flat-circle&logo=Micronaut)![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)
+- 🔭 Back-end: ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-circle&logo=Node.js) ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)
+- 👯 Front-end: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3) ![React](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=React)
 
-- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
+- :hammer_and_wrench: Tools: ![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-black?style=flat-circle&logo=IntelliJIDEA) ![WebStorm](https://img.shields.io/badge/-WebStorm-white?style=flat-circle&logo=WebStorm)
 
-- :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![Intelli JIDEA](https://img.shields.io/badge/-IntelliJIDEA-black?style=flat-circle&logo=IntelliJIDEA) 
+- ⚙️ Others: ![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git) ![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux) ![Redis](https://img.shields.io/badge/-Redis-red?style=flat-circle&logo=Redis) ![WebSockets](https://img.shields.io/badge/-WebSockets-blue?style=flat-circle&logo=WebSocket)
 
-- ⚙️ om：![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)
+- 💻 Databases: ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-circle&logo=mysql) ![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-circle&logo=Oracle)
 
-- 💻 db：![Postgres](https://img.shields.io/badge/-Postgres-blue?style=flat-circle&logo=Postgres)![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-circle&logo=Oracle)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)
-- 🌱 learning：![Micronaut](https://img.shields.io/badge/-Micronaut-yellow?style=flat-circle&logo=Micronaut)![Python](https://img.shields.io/badge/-Python-green?style=flat-circle&logo=Python)
+- 🌱 Learning: ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blue?style=flat-circle&logo=tailwind-css) ![React](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=React) ![Redis](https://img.shields.io/badge/-Redis-red?style=flat-circle&logo=Redis) ![WebSockets](https://img.shields.io/badge/-WebSockets-blue?style=flat-circle&logo=WebSocket)
 
-> Language usage
+> Language Usage
 
 <div align="center">
     <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=holic-x&theme=dark&layout=compact"/>
 </div>
 
 
-# 🔭Actions
+# 🔭 Actions
 
 <div align="center">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=trylow10&theme=dark" />
- 
 </div>
-
-
